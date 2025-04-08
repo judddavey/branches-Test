@@ -2,4 +2,4 @@
 
 Main Branch  -->  |  Future Branch    |
 
-            --> Branch_2
+            --> Branch_2 - BOB
